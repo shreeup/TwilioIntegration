@@ -1,0 +1,14 @@
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\bin\Debug\netcoreapp2.2\SMSMessenger.deps.json
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\bin\Debug\netcoreapp2.2\SMSMessenger.runtimeconfig.json
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\bin\Debug\netcoreapp2.2\SMSMessenger.runtimeconfig.dev.json
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\bin\Debug\netcoreapp2.2\SMSMessenger.dll
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.csprojAssemblyReference.cache
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.RazorAssemblyInfo.cache
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.RazorAssemblyInfo.cs
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.AssemblyInfoInputs.cache
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.AssemblyInfo.cs
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.RazorTargetAssemblyInfo.cache
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\bin\Debug\netcoreapp2.2\SMSMessenger.pdb
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.dll
+C:\Users\Shree.Upadhyaya\source\repos\SWLabsWebApp\SMSMessenger\obj\Debug\netcoreapp2.2\SMSMessenger.pdb
